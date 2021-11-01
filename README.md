@@ -1,2 +1,2 @@
 # consoleChess
-A console-based Chess game.
+A console-based 2-player Chess game.
