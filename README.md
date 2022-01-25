@@ -14,7 +14,7 @@ Two players can interactively input their moves using standard [chess move notat
 
 ![Terminal.gif](https://i.imgur.com/WBcU5UQ.gif)
 
-## Code Itself
+## 👨‍💻 Code Itself
 Code is written in an [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) fashion. The program constains two general objects namely:
   - Board
   - Piece 
